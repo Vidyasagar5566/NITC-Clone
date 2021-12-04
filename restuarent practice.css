@@ -104,18 +104,18 @@ body {
 }
 
 .clgimg {
-	margin-left:100px; 
+	margin-left:10%; 
 	height:390px; 
-	width:970px; 
+	width:65%; 
 	border:5px solid green;
 	float:left;
 	clear:right;
 }
 .clgimg:hover {
 	height:420px; 
-	width:1000px; 
+	width:67%; 
 	border:8px solid #987659;
-	margin-left:50px;
+	margin-left:8%;
 
 }
 
@@ -138,7 +138,22 @@ body {
 
 .courses {
 	width:85%;
-
-	margin-left:110px;
+	margin-left:10%;
 	background-color:white;
+	border-radius:60px;
+}
+.ending-left {
+	color:white;
+	margin-left:100px;
+	float:left;
+
+}
+
+.ending-right {
+	color:white;
+	margin-left:25%;
+	float:left;
+	margin-bottom:30px;
+	clear:right;
+
 }
