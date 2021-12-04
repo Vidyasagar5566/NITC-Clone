@@ -8,11 +8,11 @@
 
 <section class = "header">
   	<img class = "image" src="National_Institute_of_Technology,_Calicut_Logo.png">
-    <a href=""><p class = "a">NIT CALICUT</p></a>
+    <a href="index.html"><p class = "a">NIT CALICUT</p></a>
     <a href="https://images.app.goo.gl/3ygLuiTazMhHyZWT6" target = "_blank"><p class = "b">pictures</p></a>
     <a href="https://en.wikipedia.org/wiki/National_Institute_of_Technology_Calicut" target = "_blank"><p class = "c">about</p></a>
     <a href="https://studychacha.com/discuss/325307-history-nit-calicut.html" target = "_blank"><p class = "d">history</p></a>
-    <a href=""><p class = "signin">Sign In</p></a>
+    <a href="index2.html"><p class = "signin">Sign In</p></a>
     <a href="https://www.google.com/maps/search/nit+calicut+pictures/@11.3187738,75.92786,16z/data=!3m1!4b1" target = "_blank"><p class = "maps">Maps</p></a>
 </section>
 
