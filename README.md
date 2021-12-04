@@ -44,12 +44,12 @@
   	    <h1 style = "color:#9bacba; font-size: 30px;">NIT Calicut Courses</h1>
   	    <p style = "font-size: 20px; font-family: italian;">National Institute of Technology (NIT), Calicut offers 10 B.Tech courses - Biotechnology Engineering (BT), Chemical Engineering (CHE), Civil Engineering (CE), Computer Science and Engineering (CSE), Electrical and Electronics Engineering (EEE), Engineering Physics, Mechanical Engineering (ME), Production Engineering (PE) and Material Science Engineering (MSE). The institute added B.Tech MSE as a new programme from the academic year 2019-20 with an annual intake of 30 seats. The institute also offers B.Arch programmes for the candidates.</p>
 
-  	    <img src="JEE-Main-Cutoff-for-NIT-Calicut.webp" style = "width:87%; height:500px; margin-left:60px;">
+  	    <img src="JEE-Main-Cutoff-for-NIT-Calicut.webp" style = "width:87%; height:500px; margin-left:8%;">
 
   	    <h1 style = "color:#9bacba; font-size: 30px;">NIT Calicut JEE Main 2021 Cutoff</h1>
   	    <p style = "font-size: 20px; font-family: italian;">JoSAA will release the NIT Calicut JEE Main cutoff 2021 after each round of counselling of the entrance exam. JEE Main 2021 cutoff for NIT Calicut will include the opening and closing ranks of candidates for each course and category. NIT Calicut JEE Main cutoff 2021 will be updated here in this article as soon as it is released by the authorities. The authorities will consider various factors for determining the cut off of JEE Main 2021 for NIT Calicut.</p>
 
-  	    <section style = "height:70px; width:450px;background-color:#D3D3D3; margin-left:300px; border-radius:10%;"> 
+  	    <section style = "height:90px; width:40%;background-color:#D3D3D3; margin-left:25%; border-radius:10px;"> 
   	    	<p>download JEE Main Previous Year Papers with keys </p>
   	    	<a href="https://engineering.careers360.com/download/jee-main-sample-papers-previous-years?icn=JEE%20Main_sample_paper&ici=JEE%20Main_article_contmap" 
   	    	style = "height:35px;width:130px;background-color:blue; color:white; margin-left:180px"> 
@@ -66,12 +66,41 @@
   	    	<li><p>Number of Questions asked in the exam</p></li>
   	    </ul>
 
+        <p style = "height:100px;"></p>
+
   	</section>
 </section>
 
-<section class = "bottomsite" style = "position:relative; top:-15px;background-color:black;height:400px;width:100%">
-	
+<hr style = "background-color:yellow; height:3px; margin-bottom:30px; width:80%;">
 
+<section style = "background-color:black;width:100%;border-radius:20px;">
+  <h2 style = "text-align:center; color:white; font-size:30px;"> nit calicut contact info</h2>
+  <section class = "ending-left">
+    <h3>dean academy</h3>
+    <div>Dr. V. Madhusudanan Pillai</div>
+    <div>Dean(Research & Consultancy)</div>
+    <div>National Institute of Technology Calicut</div>
+    <div>N. I. T. Campus (PO), Calicut,</div>
+    <div>Kerala, 673601, INDIA</div>
+  </section>
+
+  <section class = "ending-right">
+    <h3>personal contact info</h3>
+    <div>email : deanrc@nitc.ac.in</div>
+    <div>Phone (O): +91-495-2286144, 2286145 (R&C office)</div>
+    <div><a href = "http://entrance-exam.net/contact-details-and-address-of-nit-calicut/">Website: http://www.nitc.ac.in</a></div>
+    <div>Calicut is well linked to other cities in India by Air, Rail and Road</div>
+    
+  </section>
+
+  <hr style = "width:80%;background-color:white;">
+
+  <section>
+    <h1 style = "color:white;font-family:italic bold; font-size:40px; margin-left:8%;opacity:0.6;">vidya sagar,,srinivas
+      <span style = "margin-left:200px;font-size:20px;">follow&nbsp;ous&nbsp;on&nbsp;-&nbsp;</span>
+      &nbsp;<a href="https://www.instagram.com/v_i_d_y_a__sagar/">&nbsp;<img src="instagram image.png" style = "height:30px;width:30px;margin-left:20px;"></a></h4>
+      
+  </section>
 
 </section>
 
