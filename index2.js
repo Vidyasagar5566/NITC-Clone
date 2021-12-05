@@ -34,7 +34,9 @@ function details() {
                  "22":"2k22-2k26" };
 
 
-	if (in2[0] == "B" || in2[0] == "b" && in2.length == 9) {
+if (in2[0] == "B" || in2[0] == "b") {
+
+	if (in2.length == 9) {
 		document.getElementById("out1").textContent = "hello Mr./Ms. " + in1 + "!";
 		document.getElementById("out2").textContent = "Welcome To Nit Calicue Website.";
 
@@ -61,10 +63,18 @@ function details() {
 		}
 
         document.getElementById("out5").textContent = "your collage mail id is:" + name.toLowerCase() + "_b" + roll + in2[7].toLowerCase() + in2[8].toLowerCase() + "@nitc.ac.in";
-	}
-	else {
-		document.getElementById("out2").textContent = "sorry you entered invalid login details!";
-		document.getElementById("out3").textContent = "please once again enter the correct emailid and roll number";
+    }
+     
+    else {
+    	    document.getElementById("out2").textContent = "sorry you entered invalid login details!";
+		    document.getElementById("out3").textContent = "please once again enter the correct emailid and roll number";
+    }
+}
+
+else {
+	document.getElementById("out2").textContent = "sorry you entered invalid login details!";
+	document.getElementById("out3").textContent = "please once again enter the correct emailid and roll number";
 	}
     
 }
+
